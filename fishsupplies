@@ -1,0 +1,57 @@
+<html>
+<title>Fish Supplies</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body class="w3-pale-yellow">
+
+<div class="w3-content" style="max-width:1400px">
+
+    <ul>           
+	<li><a href="index.html">About Us/History</a></li>           
+	<li><a href="employees.html">Our Team</a></li>            	
+	<li><a href="products.html">Products</a></li>            	
+	<li><a href="policies.html">Policies</a></li>            	
+	<li><a 	href="contact_us.html">Contact Us</a></li>         	
+	</ul> 
+ 
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>Fish Supplies</b></h1>
+  <p>Included below are some of the items available for fish owners. If you do not see something 
+  you're interested in, feel free to give us a call! </header>
+<center>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+<img src="fish.jpg" width="600" height="400">
+<center>
+<p><b>We have a variety of fish for a variety of habitat sizes. Call to find out more specifics</b></p>
+</center>
+
+<img src="fishbowl.jpeg" width="600" height="600">
+<center>
+<p><b>We have various shapes and sizes of fish tanks and habitats available.</b></p>
+</center>
+     
+<img src="fishfood.jpeg" width="600" height="400">
+<center>
+<p><b>Get the perfect food for your aquatic friends!</b></p>
+</center>     
+
+</nav> 
+</center>
+
+
+</body>
+</html>
+

@@ -1,0 +1,56 @@
+<html>
+<title>Contact Us</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body class="w3-pale-yellow">
+
+<div class="w3-content" style="max-width:1400px">
+
+    <ul>           
+	<li><a href="index.html">About Us/History</a></li>           
+	<li><a href="employees.html">Our Team</a></li>            	
+	<li><a href="products.html">Products</a></li>            	
+	<li><a href="policies.html">Policies</a></li>            	
+	<li><a 	href="contact_us.html">Contact Us</a></li>         	
+	</ul> 
+ 
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>Contact Us</b></h1>
+</header>        
+<header>
+<center>                      
+	<h1><b>Financing</b></h1>
+	<p> DHP accepts a variety of payments including cash, card, check, and now Apple Pay! All 
+	payments must be made in full. We offer a rewards program that can be beneficial for purchasing food or other
+	supplies regularly. Call our office to learn more! 
+	</p>
+	</header>
+	</center>
+
+<header>
+<center>                      
+	<h1><b>Delivery</b></h1>
+	<p> We understand that life can get crazy, especially right now, so we have delivery available
+	for customers within a 10 mile radius for purchases over $50. To place an order for delivery, call our 
+	store and an associate with create an order for you and bill you directly to your email. This is 
+	a contactless, convenient alternative to shopping in our stores.</p>
+	</header>
+	</center>
+
+<header>
+<center>                      
+	<h1><b>Returns</b></h1>
+	<p> We want you to be fully satisfied with your purchase, but due to the nature of our
+	products we cannot guarantee that you can return items. If you're unsatisfied with your purchase,
+	give us a call and we can talk about refunding and/or sending a replacement to you. 
+	</p>
+	</header>
+	</center>
+</body>
+</html>
+
